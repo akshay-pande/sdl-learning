@@ -1,0 +1,1 @@
+/home/akshay/Documents/cpp/build/CMakeFiles/sdl2test.dir

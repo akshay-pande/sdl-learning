@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/sdl2test.dir/sdl2example.cpp.o  -o sdl2test -rdynamic -lSDL2 -lpthread -lGLEW 
