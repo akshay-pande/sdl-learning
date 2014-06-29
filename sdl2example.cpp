@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	glewExperimental = GL_TRUE;
 	glewInit();
 	GLuint   vertexBuffer;
-//	glGenBuffers(1, vertexBuffer);
+	glGenBuffers(1, vertexBuffer);
 
 	printf("%u\n", vertexBuffer);
 
